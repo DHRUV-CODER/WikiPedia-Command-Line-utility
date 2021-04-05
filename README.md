@@ -11,9 +11,16 @@
 	 
 	 - [ ] Open Your Command Prompt 
 	 - Make Sure You Are Inside The Folder Where The main.py is located 
-	 - `cd .\WikiPedia-Command-Line-utility-main\`
+	 - `cd .\WikiPedia-Command-Line-utility-main\` 
+ 2. **Install All The Lib**
 
- 2. **Let The Magic Begin**
+	 >pip install colorama
+	 >pip install requests
+	 >pip install argparse
+
+  Avoid This By Running `pip install -r requiremets.txt` -> [Here]()
+
+ 3. **Let The Magic Begin**
  
  - [ ] Make Sure Have Python , If You Dont **[Download It Here](https://www.python.org/downloads/)**
 
