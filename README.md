@@ -21,7 +21,7 @@
 	 >pip install argparse
 	 >
 
-  Avoid This By Running `pip install -r requiremets.txt` -> [Here]()
+  Avoid This By Running `pip install -r requiremets.txt` -> [Here](https://github.com/DHRUV-CODER/WikiPedia-Command-Line-utility/blob/main/requiremets.txt)
 
  3. **Let The Magic Begin**
  
