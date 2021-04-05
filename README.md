@@ -55,10 +55,11 @@
 
 ## Some Eg:-
 
+# Help Command
 <img width="756" alt="1" src="https://user-images.githubusercontent.com/60794694/113592367-b80d8f80-963d-11eb-87d6-6c2b82b3287d.PNG">
-
+# Result Eg
 <img width="952" alt="2" src="https://user-images.githubusercontent.com/60794694/113592468-de332f80-963d-11eb-9f4d-015fdded3fa5.PNG">
-
+# Error Result
 <img width="776" alt="3" src="https://user-images.githubusercontent.com/60794694/113592532-f73be080-963d-11eb-9af4-0a67036a4640.PNG">
 
 
