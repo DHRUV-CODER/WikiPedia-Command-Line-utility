@@ -15,8 +15,11 @@
  2. **Install All The Lib**
 
 	 >pip install colorama
+	 >
 	 >pip install requests
+	 >
 	 >pip install argparse
+	 >
 
   Avoid This By Running `pip install -r requiremets.txt` -> [Here]()
 
